@@ -11,7 +11,7 @@ const handler = NextAuth ({
     async session ({ session }) {
 
     },
-    async signIN ({ profile }) {
+    async signIn ({ profile }) {
         
     }
 })
